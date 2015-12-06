@@ -2,9 +2,24 @@
 {
 	"base"				"fretta13"
 	"title"				"Pedo-Bear Escape"
-	"menusystem"		"0"
+	"author_name"	"Paul Sweeney"
+	"author_email"	"matchheadstudios@gmail.com"
+	"author_url"	""
+	
+	"icon"		""
+	"info"		""
+	"hide"		"0"
 
-	"author_name"		"TEAM WANKER"
-	"author_email"		""
-	"author_url"		"http://www.garrysmod.com/"
+	"fretta_maps"
+	{
+		"1"	"^pb_"
+	}
+	
+	"mappattern"
+	{
+		"1"	"^pb_"
+	}
+
+	"selectable"	"1"
+	"description"	"Run like F**k from Pedo Bear or be killed."
 }

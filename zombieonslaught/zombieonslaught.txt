@@ -2,9 +2,24 @@
 {
 	"base"				"fretta13"
 	"title"				"Zombie Onslaught"
-	"menusystem"		"0"
+	
+	"author_name"	"Rambo_6"
+	"author_email"	""
+	"author_url"	""
+	
+	"icon"		""
+	"info"		""
+	"hide"		"0"
 
-	"author_name"		""
-	"author_email"		""
-	"author_url"		"http://www.garrysmod.com/"
+	"fretta_maps"
+	{
+		"1"	"^zo_"
+	}
+	"mappattern"
+	{
+		"1"	"^zo_"
+	}
+
+	"selectable"	"1"
+	"description"	"Work as a team and survive the zombie apocalypse!"
 }

@@ -2,9 +2,19 @@
 {
 	"base"				"fretta13"
 	"title"				"Trembling Tiles"
-	"menusystem"		"0"
+	"author_name"	"Disseminate"
+	"author_email"	""
+	"author_url"	""
+	
+	"icon"		""
+	"info"		"Don't stand in one place for too long"
+	"hide"		"0"
 
-	"author_name"		"TEAM WANKER"
-	"author_email"		""
-	"author_url"		"http://www.garrysmod.com/"
+	"fretta_maps"
+	{
+		"1"	"^til_"
+	}
+
+	"selectable"	"1"
+	"description"	"Watch for missing tiles."
 }
