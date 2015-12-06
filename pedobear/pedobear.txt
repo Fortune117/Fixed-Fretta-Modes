@@ -1,0 +1,10 @@
+"pedobear"
+{
+	"base"				"fretta13"
+	"title"				"Pedo-Bear Escape"
+	"menusystem"		"0"
+
+	"author_name"		"TEAM WANKER"
+	"author_email"		""
+	"author_url"		"http://www.garrysmod.com/"
+}

@@ -1,0 +1,10 @@
+"assass"
+{
+	"base"				"fretta13"
+	"title"				"Assassination"
+	"menusystem"		"0"
+
+	"author_name"		"TEAM WANKER"
+	"author_email"		""
+	"author_url"		"http://www.garrysmod.com/"
+}
